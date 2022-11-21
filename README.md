@@ -1,7 +1,7 @@
 # Installation 
 ## Windows (mpv.net)
 
-1. Install python(https://www.python.org/downloads/) and [vapoursynth](http://www.vapoursynth.com/doc/installation.html). Right now the 2 needed versions are Python 3.10.8 and VapourSynthR60. 
+1. Install [python](https://www.python.org/downloads/) and [vapoursynth](http://www.vapoursynth.com/doc/installation.html). Right now the 2 needed versions are Python 3.10.8 and VapourSynthR60. 
 
 **INSTALL FOR ALL USERS**
 
