@@ -12,9 +12,17 @@ from vapoursynth import core
 
 print(core.version())
 ```
+3. Install mvtools addon for vapoursynth using terminal
 
-3. If all is well you can know setup input.conf and mpv.conf located in %AppData%\mpv.net
+```
+vsrepo install mv
+```
+
+
+4. If all is well you can know setup input.conf and mpv.conf located in %AppData%\mpv.net
+
 input.conf add
+
 ```ini
 _ set profile FrameInterpolation #menu: Profiles > profile FrameInterpolation
 ```
@@ -26,6 +34,6 @@ vf=vapoursynth="PATH_TO_YOUR_SCRIPT"
 profile-restore = copy
 ```
 
-4. inside of mpv you can now right click and use the profile menu to select FrameInterpolation
+5. inside of mpv you can now right click and use the profile menu to select FrameInterpolation
 
 ### For debugging you can enable an osd console by pressing tilde `
