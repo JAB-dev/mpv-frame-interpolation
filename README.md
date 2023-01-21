@@ -19,7 +19,7 @@ vsrepo install mv
 ```
 
 
-4. If all is well you can know setup input.conf and mpv.conf located in %AppData%\mpv.net
+4. If all is well you can now setup input.conf and mpv.conf located in %AppData%\mpv.net
 
 input.conf add
 
