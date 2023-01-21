@@ -37,3 +37,11 @@ profile-restore = copy
 5. inside of mpv you can now right click and use the profile menu to select FrameInterpolation
 
 ### For debugging you can enable an osd console by pressing tilde `
+
+# Extras!
+you can fix audio desync (which might occur on lower end hardware) by including the segment below in your mpv.conf
+```ini
+hr-seek-framedrop=no
+```
+
+
